@@ -1,0 +1,29 @@
+{
+  "retCode": "400000",
+  "retDesc": "SUCCESS",
+  "rspBody": {
+    "msgContentList|1-10": [{
+      "msgContentId": "@natural()",
+      "title": "@csentence()",
+      "imgUrl|1": [
+        "../../images/clientHome/msg.png",
+        "../../images/clientHome/add.png",
+        "../../images/clientHome/delete.png"
+      ],
+      "msgDate": "@datetime()",
+      "msgContent": "果机没应众省里便确其价是反且图长与容色六六",
+      "msgArticle": "果机没应众省里便确其价是反且图长与容色六且图长与容色六六",
+      "msgArticleUrl": "http://www.baidu.com/",
+      "msgTemplateType": "",
+      "btnName1": "@csentence(8)",
+      "btnUrl1": "http://www.baidu.com/",
+      "btnName2": "",
+      "btnUrl2": "",
+      "msgDetail": "",
+      "readStatus|1": [
+        "0",
+        "1"
+      ]
+    }]
+  }
+}
