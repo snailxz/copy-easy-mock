@@ -21,9 +21,10 @@
 2. 将下载的 zip 包加压至 `./api` 目录
 3. 在根目录下创建 `user.config.js` 文件, 暴露出 `userInfo` 变量
 ```javascript
-    const userInfo = {  // 账号密码
-        id: 'lixiangzhao',
-        pw: '88888888888'
+    const userInfo = {  // 账号密码工程名
+        id: '用户名',
+        pw: '密码',
+        groupName: '项目要选择的分组名称'
     }
     module.exports = userInfo
 ```
